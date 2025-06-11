@@ -1,23 +1,26 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import './styles.css';
+import Navbar from './components/Navbar';
+import Hero from './components/Hero';
+import Wisata from './components/Wisata';
+import Slogan from './components/Slogan';
+import AboutUs from './components/AboutUs';
+import Fasilitas from './components/Fasilitas';
+import Footer from './components/Footer';
+import Lokasi from './components/Lokasi';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Navbar />
+      <Hero />
+      <Wisata />
+      <Slogan />
+      <AboutUs />
+      <Fasilitas />
+      <Lokasi/>
+      <Footer />
     </div>
   );
 }

@@ -1,0 +1,319 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #fff;
+  color: #333;
+}
+
+.navbar {
+  background-color: #004C4C;
+  color: white;
+  padding: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+.nav-links li a {
+  color: white;
+  text-decoration: none;
+}
+
+.nav-links li a:hover {
+  text-decoration: underline;
+}
+
+.hero {
+  height: 400px;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.hero h2 {
+  color: white;
+  font-size: 32px;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 16px;
+}
+
+.section {
+  padding: 40px 20px;
+  align-items: center;
+}
+
+.section-title {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #004C4C;
+  text-align: center;
+}
+
+
+.wisata-content {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.wisata-img {
+  max-width: 100%;
+  border-radius: 8px;
+}
+
+.wisata-text {
+  flex: 1;
+}
+
+.about-text {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.about-section {
+  overflow-x: auto;
+}
+
+.about-scroll-container {
+  display: flex;
+  gap: 20px;
+  overflow-x: auto;
+  padding: 10px 0;
+  scroll-snap-type: x mandatory;
+}
+
+.about-card {
+  flex: 0 0 300px;
+  background-color: #f5f5f5;
+  border-radius: 10px;
+  padding: 20px;
+  scroll-snap-align: start;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  min-height: 200px;
+}
+
+.about-card h4 {
+  margin-top: 0;
+  color: #004C4C;
+}
+
+.fasilitas-section {
+  background-color: #025b63;
+  color: white;
+  padding: 60px 20px;
+}
+
+.white-title {
+  color: white;
+}
+
+
+.fasilitas-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+
+.fasilitas-item {
+  background-color: white;
+  color: #004C4C;
+  border-radius: 10px;
+  overflow: hidden;
+  width: 250px;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease;
+}
+
+.fasilitas-item:hover {
+  transform: translateY(-5px);
+}
+
+.fasilitas-img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  display: block;
+}
+
+.fasilitas-item h4 {
+  margin: 16px 0;
+}
+
+.footer {
+  background-color: #004C4C;
+  color: white;
+  padding: 40px 20px;
+  margin-top: 40px;
+}
+
+.footer-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.footer h4 {
+  margin-bottom: 10px;
+}
+
+.wisata-grid {
+  display: flex;
+  gap: 40px;
+  max-width: 1100px;
+  margin: 0 auto;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.wisata-left {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.stacked-img {
+  width: 80%;
+  border-radius: 5px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.wisata-right {
+  flex: 1;
+  min-width: 300px;
+}
+
+.left-align {
+  text-align: left;
+}
+
+.btn-link {
+  margin-top: 20px;
+  padding: 10px 18px;
+  background-color: #004C4C;
+  color: white;
+  border: none;
+  border-radius: 25px;
+  font-weight: bold;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  font-size: 14px;
+}
+
+.btn-link span {
+  font-size: 18px;
+}
+
+.btn-link:hover {
+  background-color: #016d6d;
+}
+
+
+.slogan-section {
+  background-color: #025b63;
+  padding: 60px 20px;
+  color: white;
+}
+
+.slogan-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1100px;
+  margin: 0 auto;
+  flex-wrap: wrap;
+}
+
+.slogan-text {
+  flex: 1;
+  min-width: 250px;
+}
+
+.slogan-line {
+  width: 40px;
+  height: 5px;
+  background-color: white;
+  margin-bottom: 20px;
+}
+
+.slogan-text h3 {
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 1.4;
+  margin: 0;
+}
+
+.slogan-image {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 250px;
+}
+
+.slogan-image img {
+  max-width: 250px;
+  height: auto;
+}
+
+.lokasi-section {
+  background-color: #ffffff;
+  padding: 60px 20px;
+}
+
+.lokasi-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  max-width: 1100px;
+  margin: 40px auto 0;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.lokasi-map {
+  flex: 2;
+  min-width: 300px;
+}
+
+.lokasi-map img {
+  width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.lokasi-info {
+  flex: 1;
+  font-size: 16px;
+  color: #004C4C;
+  min-width: 200px;
+  display: flex;
+  align-items: center;
+}
+
+.lokasi-info p {
+  margin: 0;
+  line-height: 1.8;
+  text-align: left;
+}
