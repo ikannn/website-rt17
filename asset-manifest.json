@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/website-rt17/static/css/main.22c4bf89.css",
-    "main.js": "/website-rt17/static/js/main.5b74841d.js",
+    "main.css": "/website-rt17/static/css/main.24c5245d.css",
+    "main.js": "/website-rt17/static/js/main.ae1d1e68.js",
     "static/js/453.ac69933f.chunk.js": "/website-rt17/static/js/453.ac69933f.chunk.js",
     "static/media/hero.jpg": "/website-rt17/static/media/hero.448a3957a9bf42bfe2f0.jpg",
     "static/media/wisata2.jpg": "/website-rt17/static/media/wisata2.33385a57499f3863ed2d.jpg",
     "static/media/wisata1.jpg": "/website-rt17/static/media/wisata1.d60b244bd8353839e281.jpg",
     "static/media/map-rt17.jpg": "/website-rt17/static/media/map-rt17.fa4f555a042fd7525d9b.jpg",
+    "static/media/beruang.jpg": "/website-rt17/static/media/beruang.fdb9b1bd9d7035af7b05.jpg",
     "static/media/lapangan.jpg": "/website-rt17/static/media/lapangan.ec2b5a60c44fbc8c8142.jpg",
     "static/media/posyandu.jpg": "/website-rt17/static/media/posyandu.c4a4c35b96aec14dbd77.jpg",
     "static/media/masjid.jpg": "/website-rt17/static/media/masjid.b6ff586ae0bf758e2c16.jpg",
     "index.html": "/website-rt17/index.html",
-    "main.22c4bf89.css.map": "/website-rt17/static/css/main.22c4bf89.css.map",
-    "main.5b74841d.js.map": "/website-rt17/static/js/main.5b74841d.js.map",
+    "main.24c5245d.css.map": "/website-rt17/static/css/main.24c5245d.css.map",
+    "main.ae1d1e68.js.map": "/website-rt17/static/js/main.ae1d1e68.js.map",
     "453.ac69933f.chunk.js.map": "/website-rt17/static/js/453.ac69933f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.22c4bf89.css",
-    "static/js/main.5b74841d.js"
+    "static/css/main.24c5245d.css",
+    "static/js/main.ae1d1e68.js"
   ]
 }
