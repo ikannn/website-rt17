@@ -1,4 +1,5 @@
 import React from 'react';
+import beruang from '../assets/beruang.jpg'; // import dari src/assets
 
 export default function Slogan() {
   return (
@@ -9,7 +10,7 @@ export default function Slogan() {
           <h3>Satu hati, satu tujuan<br />RT. 17 unggul dan harmonis.</h3>
         </div>
         <div className="slogan-image">
-          <img src="/beruang.png" alt="Beruang" />
+          <img src={beruang} alt="Beruang" />
         </div>
       </div>
     </section>
