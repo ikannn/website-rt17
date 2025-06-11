@@ -15,9 +15,9 @@ function App() {
     <div>
       <Navbar />
       <Hero />
-      <Wisata />
-      <Slogan />
       <AboutUs />
+      <Slogan />
+      <Wisata />
       <Fasilitas />
       <Lokasi/>
       <Footer />
