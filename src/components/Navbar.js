@@ -7,7 +7,9 @@ export default function Navbar() {
       <ul className="nav-links">
         <li><a href="#home">Home</a></li>
         <li><a href="#about">About Us</a></li>
-        <li><a href="#products">Products</a></li>
+        <li><a href="#wisata">Wisata</a></li>
+        <li><a href="#fasilitas">Fasilitas</a></li>
+        <li><a href="#lokasi">Lokasi</a></li>
         <li><a href="#contact">Contact Us</a></li>
       </ul>
     </nav>
