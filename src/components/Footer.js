@@ -5,27 +5,28 @@ export default function Footer() {
     <footer className="footer" id="contact">
       <div className="footer-content">
         <div>
-          <h4>Company Info</h4>
-          <p>About Us</p>
+          <h4>Fasilitas</h4>
+          <p>Posyandu</p>
+          <p>Masjid</p>
+          <p>Area Olahraga</p>
         </div>
         <div>
-          <h4>Product</h4>
-          <p>Antibiotics</p>
-          <p>Sulfonamides</p>
-          <p>Steroids</p>
+          <h4>Wisata</h4>
+          <p>Tanjung Gading</p>
+          <p>Coming Soon</p>
+          <p>Coming Soon</p>
         </div>
         <div>
           <h4>Social Media</h4>
           <p>Instagram</p>
-          <p>Facebook</p>
-          <p>Twitter</p>
         </div>
         <div>
           <h4>Get In Touch</h4>
-          <p>(+62) 8660 1462 8660 4594</p>
-          <p>Green Sedayu Biz Park Blok G5</p>
-          <p>Cakung Timur, Jakarta Timur</p>
-          <p>Email: rtp17@webmail.id</p>
+          <p>(+62) 81346257168</p>
+          <p>JLN PDAM KM12 RT 17</p>
+          <p>KELURAHAN KARANG JOANG</p>
+          <p>BALIKPAPAN UTARA</p>            
+          <p>KALIMANTAN TIMUR</p>
         </div>
       </div>
     </footer>
