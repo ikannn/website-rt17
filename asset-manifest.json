@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/website-rt17/static/css/main.7efe4bfd.css",
-    "main.js": "/website-rt17/static/js/main.9b472ed5.js",
+    "main.js": "/website-rt17/static/js/main.38ae2675.js",
     "static/js/453.ac69933f.chunk.js": "/website-rt17/static/js/453.ac69933f.chunk.js",
     "static/media/hero.jpg": "/website-rt17/static/media/hero.448a3957a9bf42bfe2f0.jpg",
     "static/media/wisata1.jpg": "/website-rt17/static/media/wisata1.d60b244bd8353839e281.jpg",
@@ -14,11 +14,11 @@
     "static/media/masjid.jpg": "/website-rt17/static/media/masjid.b6ff586ae0bf758e2c16.jpg",
     "index.html": "/website-rt17/index.html",
     "main.7efe4bfd.css.map": "/website-rt17/static/css/main.7efe4bfd.css.map",
-    "main.9b472ed5.js.map": "/website-rt17/static/js/main.9b472ed5.js.map",
+    "main.38ae2675.js.map": "/website-rt17/static/js/main.38ae2675.js.map",
     "453.ac69933f.chunk.js.map": "/website-rt17/static/js/453.ac69933f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7efe4bfd.css",
-    "static/js/main.9b472ed5.js"
+    "static/js/main.38ae2675.js"
   ]
 }
