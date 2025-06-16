@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/website-rt17/static/css/main.7efe4bfd.css",
-    "main.js": "/website-rt17/static/js/main.38ae2675.js",
+    "main.css": "/website-rt17/static/css/main.8693872e.css",
+    "main.js": "/website-rt17/static/js/main.b7612fd7.js",
     "static/js/453.ac69933f.chunk.js": "/website-rt17/static/js/453.ac69933f.chunk.js",
     "static/media/hero.jpg": "/website-rt17/static/media/hero.448a3957a9bf42bfe2f0.jpg",
+    "static/media/wisata2.jpg": "/website-rt17/static/media/wisata2.a00aefa4a1bc88045e16.jpg",
     "static/media/wisata1.jpg": "/website-rt17/static/media/wisata1.d60b244bd8353839e281.jpg",
+    "static/media/lapangan.jpg": "/website-rt17/static/media/lapangan.3f633ed812fdf67bcf01.jpg",
+    "static/media/masjid.jpg": "/website-rt17/static/media/masjid.b0095b7597521d42f293.jpg",
     "static/media/map-rt17.jpg": "/website-rt17/static/media/map-rt17.fa4f555a042fd7525d9b.jpg",
     "static/media/beruang.jpg": "/website-rt17/static/media/beruang.fdb9b1bd9d7035af7b05.jpg",
-    "static/media/lapangan.jpg": "/website-rt17/static/media/lapangan.ec2b5a60c44fbc8c8142.jpg",
     "static/media/posyandu.jpg": "/website-rt17/static/media/posyandu.c4a4c35b96aec14dbd77.jpg",
-    "static/media/wisata2.jpg": "/website-rt17/static/media/wisata2.1fdde60a0baff207e1ca.jpg",
     "static/media/wisata3.jpg": "/website-rt17/static/media/wisata3.1fdde60a0baff207e1ca.jpg",
-    "static/media/masjid.jpg": "/website-rt17/static/media/masjid.b6ff586ae0bf758e2c16.jpg",
     "index.html": "/website-rt17/index.html",
-    "main.7efe4bfd.css.map": "/website-rt17/static/css/main.7efe4bfd.css.map",
-    "main.38ae2675.js.map": "/website-rt17/static/js/main.38ae2675.js.map",
+    "main.8693872e.css.map": "/website-rt17/static/css/main.8693872e.css.map",
+    "main.b7612fd7.js.map": "/website-rt17/static/js/main.b7612fd7.js.map",
     "453.ac69933f.chunk.js.map": "/website-rt17/static/js/453.ac69933f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7efe4bfd.css",
-    "static/js/main.38ae2675.js"
+    "static/css/main.8693872e.css",
+    "static/js/main.b7612fd7.js"
   ]
 }
