@@ -331,14 +331,4 @@ body {
   margin: 16px 0;
 }
 
-.coming-soon::after {
-  content: 'Coming Soon';
-  position: absolute;
-  top: 8px;
-  right: 8px;
-  background-color: #FFA500;
-  color: white;
-  font-size: 12px;
-  padding: 4px 8px;
-  border-radius: 4px;
-}
+

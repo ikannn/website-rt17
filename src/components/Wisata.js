@@ -14,7 +14,7 @@ export default function Wisata() {
         </div>
         <div className="wisata-item coming-soon">
           <img src={wisata2} alt="Coming Soon" className="wisata-list-img" />
-          <h4>Coming Soon</h4>
+          <h4>Kebun Pak Agus</h4>
         </div>
         <div className="wisata-item coming-soon">
           <img src={wisata3} alt="Coming Soon" className="wisata-list-img" />
